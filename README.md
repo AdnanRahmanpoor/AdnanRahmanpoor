@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AdnanRahmanpoor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, It's Adnan 👋
+
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning SQL, Python and R
+- 📫 You can connect with me through (LinkedIn)[https://www.linkedin.com/in/adnanrahmanpoor] or (Personal Site)[https://adnanrahmanpoor.github.io]
 
 <!---
 AdnanRahmanpoor/AdnanRahmanpoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
