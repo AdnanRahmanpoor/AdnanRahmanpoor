@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on [Personal blog](https://adnanrp.pages.dev)<br><br>🌱 I’m currently learning **Web Development, focusing on ReactJS and NextJS**<br><br>👨‍💻 All of my projects are available at [adnan-rahmanpoor.vercel.app](http://adnan-rahmanpoor.vercel.app)<br><br>📫 How to reach me **adnanrahmanpoor@gmail.com**
+🔭 I’m currently working on [Personal blog](https://adnanrp.pages.dev)<br><br>🌱 I’m currently learning **Web Development, focusing on ReactJS,NextJS & MERN Stack**<br><br>👨‍💻 All of my projects are available at [adnan-rahmanpoor.vercel.app](http://adnan-rahmanpoor.vercel.app)<br><br>📫 How to reach me **adnanrahmanpoor@gmail.com**
 
 
 ## 🌐 Socials:
