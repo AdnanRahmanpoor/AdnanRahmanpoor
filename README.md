@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Personal Blog](https://adnanrp.pages.dev) & Other Projects<br><br>🌱 I’m currently learning Django Development & Data Analysis (Python) & Mobile Developement (Flutter) & Web Development (PHP)<br><br>👨‍💻 All of my projects are available at [Portfolio Site](https://adnan-rahmanpoor.vercel.app) & here on Github<br><br>📫 How to reach me adnanrahmanpoor@gmail.com
+🔭 I’m currently working on Data Analytics Projects, Data Science & Windows App Development + Other Projects<br><br>🌱 Always learning and growing<br><br>👨‍💻 All of my projects are available at [Portfolio Site](https://adnan-rahmanpoor.vercel.app) & here on Github<br><br>📫 How to reach me adnanrahmanpoor@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adnanrahmanpoor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnan-rahmanpoor) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AdnanRpX) 
